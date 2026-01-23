@@ -5,10 +5,10 @@ This project is inspired by the Forgetting Curve, but explained in easy language
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
-![Home Page](Screenshot/Gallery.png)
+![Home Page](Screenshot.png)
 
 ### 📊 Prediction Output
-![Prediction Output](Screenshot1/Gallery.png>)
+![Prediction Output](Screenshot1.png>)
 
 ## What Problem Does This Solve?
 When we study something:

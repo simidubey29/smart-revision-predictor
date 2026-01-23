@@ -5,10 +5,10 @@ This project is inspired by the Forgetting Curve, but explained in easy language
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1291" height="806" alt="Screenshot 2026-01-24 010206" src="https://github.com/user-attachments/assets/039d09d8-a71c-46ad-8894-823e0eea45ae" />)
+![Home Page](<img width="1291" height="806" alt="Screenshot" src="https://github.com/user-attachments/assets/0e276575-2419-47f7-84cd-0c3283a4bc2b" />)
 
 ### 📊 Prediction Output
-![Prediction Output](<img width="1068" height="481" alt="Screenshot 2026-01-24 010218" src="https://github.com/user-attachments/assets/892daa92-17c3-4738-9f76-be6af28d8e2a" />)
+![Prediction Output](<img width="1068" height="481" alt="Screenshot1" src="https://github.com/user-attachments/assets/8947944f-dd1a-499a-8084-54529de45894" />)
 
 ## What Problem Does This Solve?
 When we study something:

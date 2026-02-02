@@ -49,6 +49,6 @@ if st.button("Check Study Status"):
     st.info(f"Revision Advice: {advice}")
 
 st.divider()
-st.caption("Simple learning project")
+
 
 

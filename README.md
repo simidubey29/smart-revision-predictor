@@ -4,11 +4,8 @@ This project is inspired by the Forgetting Curve, but explained in easy language
 
 ## 📸 Application Screenshots
 
-### 🏠 Home Page
-![Home Page](Screenshot.png)
-
-### 📊 Prediction Output
-![Prediction Output](Screenshot1.png>)
+### 🏠deployed link: 
+https://smart-revision-predictor-2.onrender.com/
 
 ## What Problem Does This Solve?
 When we study something:
